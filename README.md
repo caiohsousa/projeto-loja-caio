@@ -3,6 +3,7 @@
 Objetivo do projeto: BACKEND, mostras os meus conhecimento em JAVA, bibliotecas e frameworks. 
 --------------------------------------------------------------------------------------
 loja para cadastro de produtos e visualização de pedidos
+Cadastro de produtos
 Cores dos produtos de acordo com seu status
 
 -----------------------
